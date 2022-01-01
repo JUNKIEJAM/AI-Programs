@@ -1,4 +1,3 @@
-# simulated annealing search of a one-dimensional objective function
 from numpy import asarray
 from numpy import exp
 from numpy.random import randn
